@@ -1,0 +1,2 @@
+AMAZON_FASHION.json filter=lfs diff=lfs merge=lfs -text
+meta_AMAZON_FASHION.json filter=lfs diff=lfs merge=lfs -text
